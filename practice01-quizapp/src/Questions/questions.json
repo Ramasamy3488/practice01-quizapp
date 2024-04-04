@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "question":"What is the capital of France?",
+        "options":["Berlin","Madrid","Paris","Rome"],
+        "correctOption":"Paris"
+    },
+    {
+        "id":2,
+        "question":"Whis planet is known as the Red Planet?",
+        "options":["Venus","Mars","Jupiter","Saturn"],
+        "correctOption":"Mars"
+    },
+    {
+        "id":3,
+        "question":"Who wrote 'Romeo and Juliet'?",
+        "options":["Cherles Dickens", "Jane Austen", "William Shakespeare","Leo Tolstoy"],
+        "correctOption":"William Shakespeare"
+    },
+    {
+        "id":4,
+        "question":"Where was India’s first national Museum opened?",
+        "options":["Delhi","Hyderabad","Rajasthan","Mumbai"],
+        "correctOption":"Mumbai"
+    },
+    {
+        "id":5,
+        "question":"The green planet in the solar system is?",
+        "options":["Mars", "Uranus", "Venus", "Earth"],
+        "correctOption":"Uranus"
+    },
+    {
+        "id":6,
+        "question":"The largest public sector undertaking in the country is?",
+        "options":["Railways", "Airways", "Roadways", "Iron and Steel Plants"],
+        "correctOption":"Roadways"
+    },
+    {
+        "id":7,
+        "question":"At which place on earth are there days & nights of equal length always?",
+        "options":["Equator", "Poles", "Prime Meridian", "Nowhere"],
+        "correctOption":"Equator"
+    },
+    {
+        "id":8,
+        "question":"Why is the color of papaya yellow?",
+        "options":["Lycopene", "Papain", "Carotene", "Caricaxanthin"],
+        "correctOption":"Caricaxanthin"
+    },
+    {
+        "id":9,
+        "question":"What is the name of the weak zone of the earth’s crust?",
+        "options":["Seismic", "Cosmic", "Formic", "Anaemic"],
+        "correctOption":"Seismic"
+    }
+]
